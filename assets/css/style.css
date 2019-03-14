@@ -1,0 +1,15 @@
+#actForm{
+    float: right;
+    padding-right: 20px;
+}
+
+#addActivity{
+    background-color: blue;
+    color: white;
+}
+
+.activity{
+    background-color: blue;
+    color: white;
+    width: 175px;
+}
